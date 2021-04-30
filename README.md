@@ -36,6 +36,7 @@ Antes de começar, você vai precisar instalar em sua máquina as seguinte ferra
 
 ![image](https://user-images.githubusercontent.com/62573072/116725350-30a30a00-a9b8-11eb-9776-547363ef23f9.png)
 
+
 Com o prompt aberto digite os seguintes comandos:
 
 - "pip install pyautogui", pressione enter e espere até que a instalação esteja concluída para poder rodar os outros códigos;
