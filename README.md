@@ -16,13 +16,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### ✅ Requirements
 
-Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:<br />
+Antes de começar, você vai precisar instalar em sua máquina as seguinte ferramentas, mas fique tranquilo eu vou ajudá-lo nesse processo:<br />
 - [Anaconda](https://www.anaconda.com)<br />
-Com isso voce já terá instalado o anaconda, o jupyter notebook, as bibliotecas pandas e time que também serão usadas nesse projeto
+- [Pyautogui](https://pyautogui.readthedocs.io/en/latest/msgbox.html)<br /><br />
+- [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)<br />
+- [Pyperclip](https://pypi.org/project/pyperclip/)<br />
+
 
 ### 👣 First Steps
 
-- Clone esse repositorio: "git clone " <br />
+- Clone esse repositorio: "git clone https://github.com/julianoferrrone12/Automatizacao-de-Processos.git" <br />
 - Mova esse projeto para um lugar conhecido por voce
 - Após ter instalado o Anaconda, abra a aba de pesquisa do windows e digite jupyter e clique na opção abaixo (O jupyter automaticamente irá abrir em seu navegador):
 
