@@ -18,7 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Antes de começar, você vai precisar instalar em sua máquina as seguinte ferramentas, mas fique tranquilo eu vou ajudá-lo nesse processo:<br />
 - [Anaconda](https://www.anaconda.com)<br />
-- [Pyautogui](https://pyautogui.readthedocs.io/en/latest/msgbox.html)<br /><br />
+- [Pyautogui](https://pyautogui.readthedocs.io/en/latest/msgbox.html)<br />
 - [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)<br />
 - [Pyperclip](https://pypi.org/project/pyperclip/)<br />
 
