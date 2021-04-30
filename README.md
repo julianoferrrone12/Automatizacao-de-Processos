@@ -59,6 +59,6 @@ Com o jupyter aberto no seu navegador ele será iniciado na página "Home" onde 
 
 ![image](https://user-images.githubusercontent.com/62573072/116738550-fb52e800-a9c8-11eb-8649-f9f054ef9cbe.png)
 
-### The End
+### 🚩 The End
 
-Antes de sair desse repositório não esqueça de deixar sua "star" ajuda muito e não custa nada!!
+🌟Antes de sair desse repositório não esqueça de deixar sua "star" ajuda muito e não custa nada!! 🌟
