@@ -3,11 +3,6 @@
 </h1>
 <p align="center">🚀🐍Automatização de processos usando Python, Anaconda Jupyter, Pyautogui e Pyperclip🚀🐍</p>
 
-# MEu pancreas
-## papai
-### ooodskdsjdok
-
-
 ### 🛠 Features
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -26,7 +21,7 @@ Antes de começar, você vai precisar instalar em sua máquina as seguinte ferra
 - [Pyautogui](https://pyautogui.readthedocs.io/en/latest/msgbox.html)<br />
 - [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)<br />
 - [Pyperclip](https://pypi.org/project/pyperclip/)<br />
-
+- [Git](https://git-scm.com)<br />
 
 ### 👣 First Steps
 
