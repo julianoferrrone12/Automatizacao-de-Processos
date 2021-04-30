@@ -20,9 +20,29 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 - [Anaconda](https://www.anaconda.com)<br />
 Com isso voce já terá instalado o anaconda, o jupyter notebook, as bibliotecas pandas e time que também serão usadas nesse projeto
 
-### Getting Started
+### 👣 First Steps
 
 - Clone esse repositorio: "git clone https://github.com/julianoferrrone12/InstagramProject.git" <br />
 - Mova esse projeto para um lugar conhecido por voce
-- Após ter instalado o Anaconda, abra a aba de pesquisa do windows e digite jupyter e clique nessa opção
--<br />![image](https://user-images.githubusercontent.com/62573072/116704390-b7002180-a9a1-11eb-82d8-b917dbe775f4.png)
+- Após ter instalado o Anaconda, abra a aba de pesquisa do windows e digite jupyter e clique na opção abaixo (O jupyter automaticamente irá abrir em seu navegador):
+
+![image](https://user-images.githubusercontent.com/62573072/116725411-3f89bc80-a9b8-11eb-8442-eb17454667dc.png)
+
+
+- Digite na aba de pesquisa do windows "Anaconda Prompt" e clique na opção abaixo (Isso irá abrir o prompt de comando anaconda para que voce possa instalar bibliotecas diretamente):
+
+![image](https://user-images.githubusercontent.com/62573072/116725350-30a30a00-a9b8-11eb-9776-547363ef23f9.png)
+
+Com o prompt aberto digite os seguintes comandos:
+
+- "pip install pyautogui", pressione enter e espere até que a instalação esteja concluída para poder rodar os outros códigos;
+- "pip install pyperclip", pressione enter e espere até que a instalação esteja concluída para poder partir para os próximos passos;
+
+Com o jupyter aberto no seu navegador ele será iniciado na página "Home" onde será possível ver diretórios do seu computador, procure o local onde voce clonou esse repositório, ao clicar nesse local e no repositório será possivel iniciar o arquivo "Automatização de Processos com Pyautogui.ipynb". Abra esse arquivo.
+
+
+### 🏁 Getting Started
+
+- Com o arquivo "Automatização de Processos com Pyautogui.ipynb" aberto, eu preciso te dar algumas orientações para que o código possa funcionar perfeitamente em sua máquina. Nesse projeto estamos usando a biblioteca pyautogui
+
+
