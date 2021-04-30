@@ -46,6 +46,5 @@ Com o jupyter aberto no seu navegador ele será iniciado na página "Home" onde 
 
 ### 🏁 Getting Started
 
-- Com o arquivo "Automatização de Processos com Pyautogui.ipynb" aberto, eu preciso te dar algumas orientações para que o código possa funcionar perfeitamente em sua máquina. Nesse projeto estamos usando a biblioteca pyautogui
-
-
+- Com o arquivo "Automatização de Processos com Pyautogui.ipynb" aberto, eu preciso te dar algumas orientações para que o código possa funcionar perfeitamente em sua máquina. Nesse projeto estamos usando a biblioteca pyautogui, uma biblioteca de automação de comandos do mouse e do teclado, portanto as posições que estão gravadas no código são referentes a minha máquina, essas posições variam de monitor para monitor, então será necessário rodar uma célula do código para descobrirmos tais posições em seu monitor.
+- Na parte final do arquivo, em sua última célula eu já deixei esse pedaço de código pronto para descobrirmos essas posições todas as vezes que for necessário
