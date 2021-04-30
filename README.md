@@ -24,5 +24,5 @@ Com isso voce já terá instalado o anaconda, o jupyter notebook, as bibliotecas
 
 - Clone esse repositorio: "git clone https://github.com/julianoferrrone12/InstagramProject.git" <br />
 - Mova esse projeto para um lugar conhecido por voce
-- Após ter instalado o Anaconda, abra a aba de pesquisa do windows e digite jupyter e clique nessa opção<br />
--![image](https://user-images.githubusercontent.com/62573072/116704390-b7002180-a9a1-11eb-82d8-b917dbe775f4.png)
+- Após ter instalado o Anaconda, abra a aba de pesquisa do windows e digite jupyter e clique nessa opção
+-<br />![image](https://user-images.githubusercontent.com/62573072/116704390-b7002180-a9a1-11eb-82d8-b917dbe775f4.png)
