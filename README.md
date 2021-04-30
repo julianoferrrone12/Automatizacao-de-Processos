@@ -3,6 +3,11 @@
 </h1>
 <p align="center">🚀🐍Automatização de processos usando Python, Anaconda Jupyter, Pyautogui e Pyperclip🚀🐍</p>
 
+# MEu pancreas
+## papai
+### ooodskdsjdok
+
+
 ### 🛠 Features
 
 As seguintes ferramentas foram usadas na construção do projeto:
