@@ -47,6 +47,18 @@ Com o jupyter aberto no seu navegador ele será iniciado na página "Home" onde 
 
 ### 🏁 Getting Started
 
-- Com o arquivo "Automatização de Processos com Pyautogui.ipynb" aberto, eu preciso te dar algumas orientações para que o código possa funcionar perfeitamente em sua máquina. Nesse projeto estamos usando a biblioteca pyautogui, uma biblioteca de automação de comandos do mouse e do teclado, portanto as posições que estão gravadas no código são referentes a minha máquina, essas posições variam de monitor para monitor, então será necessário rodar uma célula do código para descobrirmos tais posições em seu monitor.
-- Na parte final do arquivo, em sua última célula eu já deixei esse pedaço de código pronto para descobrirmos essas posições todas as vezes que for necessário. Antes disso observe a parte inicial do arquivo onde tem uma breve descrição do objetivo final do projeto, e também um link de uma pasta no drive que contém uma tabela do excel que será a nossa base de dados.
-- 
+- Com o arquivo "Automatização de Processos com Pyautogui.ipynb" aberto, eu preciso te dar algumas orientações para que o código possa funcionar perfeitamente em sua máquina. Nesse projeto estamos usando a biblioteca pyautogui, uma biblioteca de automação de comandos do mouse e do teclado, portanto as posições que estão gravadas no código são referentes a minha máquina, essas posições variam de monitor para monitor, então será necessário rodar uma célula do código para descobrirmos tais posições em seu monitor.<br />
+- Na parte final do arquivo, em sua última célula eu já deixei esse pedaço de código pronto para descobrirmos essas posições todas as vezes que for necessário. Antes disso observe a parte inicial do arquivo onde tem uma breve descrição do objetivo final do projeto, e também um link de uma pasta no drive que contém uma tabela do excel que será a nossa base de dados.<br />
+- Abra esse link do drive disponibilizado, volte para o Jupyter e rode a última célula do código. "time.sleep(5)" essa parte do código lhe garante 5 segundos para ir até o drive e parar o mouse em cima de onde se deve clicar, ao final do tempo irá aparecer que o código já pegou a posição do seu mouse, não esqueça que em quanto o código estiver rodando voce deve apenas deixar o mouse em cima do local desejado.
+- O programa irá te devolver a posição do seu mouse durante a execução. No código vai estar explicado em comentários quais posições voce deve colorar em cada local.
+- Para rodar somente uma célula clique no botão do lado esquerdo da célula que voce deseja rodar
+
+![image](https://user-images.githubusercontent.com/62573072/116738346-b29b2f00-a9c8-11eb-862e-721b55747cec.png)
+
+- Para rodar todas as células ao mesmo tempo clique "Cell" e depois em "Run All"
+
+![image](https://user-images.githubusercontent.com/62573072/116738550-fb52e800-a9c8-11eb-8649-f9f054ef9cbe.png)
+
+### The End
+
+Antes de sair desse repositório não esqueça de deixar sua "star" ajuda muito e não custa nada!!
